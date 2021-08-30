@@ -1,1 +1,1 @@
-# financa
+# financa-js
