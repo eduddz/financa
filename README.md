@@ -1,4 +1,4 @@
-# Financeiro with Javascript 💲
+# Financeiro com Javascript 💲
 
 ## Welcome 👋
 
